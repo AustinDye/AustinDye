@@ -3,3 +3,4 @@ Male || He/Him || INTP-T
 
 Interested in: QA Test Automation || Machine Learning || Virtual Reality / Augemented Reality Technology || Video Game Development
 
+

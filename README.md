@@ -3,8 +3,10 @@ Male || He/Him || INTP-T
 
 Interested in: QA || Machine Learning || Virtual Reality / Augemented Reality Technology || Video Game Development || Web Development
 
-Coding Challenge Site Profiles:
+-ACCOUNTS-
 
 CodeWars: https://www.codewars.com/users/AustinDye
 
 
+
+Portfolio: https://austindye.github.io/WIP-Portfolio/#/

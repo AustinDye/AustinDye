@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Austin Dye
 Male || He/Him || INTP-T
 
-Interested in: QA || Machine Learning || Virtual Reality / Augemented Reality Technology || Video Game Development || Web Development
+Interested in: QA || Virtual Reality / Augemented Reality Technology || Video Game Development || Web Development
 
 -Links-
 

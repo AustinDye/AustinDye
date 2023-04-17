@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Austin Dye
 Male || He/Him || INTP-T
 
-Interested in: QA || Virtual Reality / Augemented Reality Technology || Web Development || AI technologies
+Interested in: QA || Virtual Reality / Augemented Reality Technology || Web Development || AI
 
 -Links-
 

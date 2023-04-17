@@ -10,3 +10,5 @@ CodeWars: https://www.codewars.com/users/AustinDye
 LinkedIn: https://www.linkedin.com/in/austin-dye-03464199/
 
 Portfolio: https://austindye.github.io/WIP-Portfolio/#/
+
+[(https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/AustinDye/github-readme-stats)

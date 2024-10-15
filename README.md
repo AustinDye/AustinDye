@@ -1,7 +1,6 @@
 ### Hi there 👋 My name is Austin Dye
-Male || He/Him || INTP-T
 
-Interested in: QA || Virtual Reality / Augemented Reality Technology || Web Development || AI
+Interested in: QA || Web Development || Machine Learning
 
 -Links-
 
@@ -11,5 +10,3 @@ LinkedIn: https://www.linkedin.com/in/austin-dye-03464199/
 
 Portfolio: https://austindye.github.io/WIP-Portfolio/#/
 
-
-[![Austins Stats](https://github-readme-stats.vercel.app/api?username=AustinDye&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
